@@ -1,9 +1,9 @@
 ## A Data-Driven Exploration of Global Demographic Trends from 1950 to 2050 #
 
- Data Exploration of "International Datasets" dataset
+### Data Exploration of "International Datasets" dataset
 
-DSCI-235: Data Wrangling Final Project
-Created by Arya Amarnath and Ronnie Delgado
+### DSCI-235: Data Wrangling Final Project
+### Created by Arya Amarnath and Ronnie Delgado
 
 
 Overview
